@@ -1,6 +1,7 @@
 # CPPND: Program a Concurrent Traffic Simulation
 ## Results for this project
 <img src="data/traffic_simulation.gif"/>
+
 ## Program schematic
 <img src="data/design.jpg"/>
 
